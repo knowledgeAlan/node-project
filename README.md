@@ -1,2 +1,2 @@
 # node-project
- node-project
+ It interacts with smart contract on nodejs.
